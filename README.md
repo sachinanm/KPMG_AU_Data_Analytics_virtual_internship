@@ -1,6 +1,6 @@
 # KPMG Data Analytics Virtual Internship 📊🚴
 
-![KPMG Logo](kpmg_logo.png)
+![KPMG Logo](KPMG-logo.jpg)
 
 The [KPMG Data Analytics Virtual Internship](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=7m99dkPfXTbA3Y2Fb) is an exciting opportunity for us to gain a practical insight into the fascinating work done at KPMG. It provides a platform to build essential career skills and gain valuable experience.
 
