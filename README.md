@@ -1,41 +1,39 @@
-# KPMG_AU_Data_Analytics_virtual_internship
+# KPMG Data Analytics Virtual Internship 📊🚴
 
+![KPMG Logo](kpmg_logo.png)
 
-The [KPMG Data Analytics Virtual Internship](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=7m99dkPfXTbA3Y2Fb) is designed to help us gain a practical insight into the work done at KPMG and it is an opportunity for us to build career skills and experience.
+The [KPMG Data Analytics Virtual Internship](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship?ref=7m99dkPfXTbA3Y2Fb) is an exciting opportunity for us to gain a practical insight into the fascinating work done at KPMG. It provides a platform to build essential career skills and gain valuable experience.
 
-## Introduction
+## Introduction 🚀
 
-Sprocket Central Pty Ltd , a medium size bikes & cycling accessories organisation, has approached Tony Smith (Partner) in KPMG’s Lighthouse & Innovation Team. Sprocket Central Pty Ltd  is keen to learn more about KPMG’s expertise in its Analytics, Information & Modelling team. The project is mainly divided into three tasks:
+At Sprocket Central Pty Ltd, a fantastic organization focused on bikes & cycling accessories, we collaborated with Tony Smith (Partner) from KPMG’s Lighthouse & Innovation Team. The project primarily involved three exciting tasks:
 
-## Task 1: Data Quality Assessment
-#### Assessment of data quality and completeness in preparation for analysis
+## Task 1: Data Quality Assessment 📊
 
-The client provided KPMG with  datasets:
+Our first mission was to assess the quality and completeness of the provided datasets in preparation for the analysis. The datasets included:
 
 * Customer Demographic 
 * Customer Addresses
-*Customer List
-* Transactions data in the past 3 months
+* Customer List
+* Transactions data from the past 3 months
 
-We performed the preliminary data wrangling , data exploration and identify ways to improve the quality of Sprocket Central Pty Ltd’s data.
+We dove into the world of data wrangling and exploration to identify ways to enhance the quality of Sprocket Central Pty Ltd’s data.
 
-## Task 2: Data Insights
-#### Targeting high value customers based on customer demographics and attributes.
+## Task 2: Data Insights 🎯
 
-* In building this recommendation, we started with a PowerPoint presentation which outlined the approach which we will be taking. 
-* The client has agreed on a 3 week scope with the following 3 phases as follows - Data Exploration; Model Development and Interpretation.
-* Prepared a detailed approach for completing the analysis including activities – i.e. understanding the data distributions, feature engineering, data transformations, modelling, results interpretation and reporting.
+In this task, we aimed to target high-value customers based on customer demographics and attributes. We started by outlining our approach in a captivating PowerPoint presentation. The project spanned over three weeks, consisting of the following phases - Data Exploration; Model Development, and Interpretation.
 
-## Task 3: Data Insights and Presentation
-#### Using visualisations to present insights
+We carefully planned the analysis approach, covering activities like understanding data distributions, feature engineering, data transformations, modeling, and result interpretation.
 
-Developed a dashboard using Tableau that displays the data summary and results of the analysis. Some of the focussed business context when presenting findings were: 
-* What are the trends in the underlying data?
-* Which customer segment has the highest customer value?
-* What do you propose should be Sprocket Central Pty Ltd ’s marketing and growth strategy?
-* What additional external datasets may be useful to obtain greater insights into customer preferences and propensity to purchase the products?
+## Task 3: Data Insights and Presentation 📈
 
+Visualizing data to present insights is a powerful way to convey valuable information. To accomplish this, we utilized Tableau to develop an engaging dashboard that showcases the data summary and analysis results. During the presentation, we focused on essential business contexts, such as:
 
+* Identifying trends in the underlying data
+* Determining the customer segment with the highest customer value
+* Proposing effective marketing and growth strategies for Sprocket Central Pty Ltd
+* Exploring additional external datasets to gain deeper insights into customer preferences and purchase behavior.
 
-## DataSource : 
-[https://www.theforage.com/virtual-internships/m7W4GMqeT3bh9Nb2c?ref=7m99dkPfXTbA3Y2Fb](https://www.theforage.com/virtual-internships/m7W4GMqeT3bh9Nb2c?ref=7m99dkPfXTbA3Y2Fb)
+## DataSource 📚
+
+[Access the virtual internship data source here!](https://www.theforage.com/virtual-internships/m7W4GMqeT3bh9Nb2c?ref=7m99dkPfXTbA3Y2Fb)
